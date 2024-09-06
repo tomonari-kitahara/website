@@ -4,4 +4,8 @@
          <loc>http://yourSite/</loc>
          <lastmod>2024-09-06</lastmod>
     </url>
+    <url>
+         <loc>http://yourSite/test/</loc>
+         <lastmod>2024-09-06</lastmod>
+    </url>
 </urlset>

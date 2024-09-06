@@ -8,4 +8,8 @@
          <loc>http://yourSite/link/</loc>
          <lastmod>2024-09-06</lastmod>
     </url>
+    <url>
+         <loc>http://yourSite/seminar/</loc>
+         <lastmod>2024-09-06</lastmod>
+    </url>
 </urlset>
